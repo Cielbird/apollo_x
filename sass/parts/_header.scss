@@ -123,30 +123,30 @@ h6 {
 
 h1::before {
   color: var(--primary-color);
-  content: "# ";
+  content: "_ ";
 }
 
 h2::before {
   color: var(--primary-color);
-  content: "## ";
+  content: "__ ";
 }
 
 h3::before {
   color: var(--primary-color);
-  content: "### ";
+  content: "___ ";
 }
 
 h4::before {
   color: var(--primary-color);
-  content: "#### ";
+  content: "____ ";
 }
 
 h5::before {
   color: var(--primary-color);
-  content: "##### ";
+  content: "_____ ";
 }
 
 h6::before {
   color: var(--primary-color);
-  content: "###### ";
+  content: "______ ";
 }
